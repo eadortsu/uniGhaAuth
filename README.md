@@ -29,14 +29,12 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/eadortsu/auth-app/main/static/demo.gif)
+![screenshot](https://raw.githubusercontent.com/eadortsu/uniGhaAuth/main/static/demo.gif)
 
 You will be required to design and build a login and register page for a website that includes all essential functions, such as prompts when a password is wrong or when a user has successfully logged in.
 
@@ -75,7 +73,7 @@ or [yarn](https://yarnpkg.com/) installed on your computer. From your command li
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/eadortsu/graphql-auth
+$ git clone https://github.com/eadortsu/uniGhaAuth
 
 
 # install dependencies
