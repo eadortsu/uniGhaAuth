@@ -1,0 +1,14 @@
+query checkRestLink ($reset_code: String!) {
+  checkRestLink (reset_code: $reset_code) {
+    _id
+    name
+    username
+    bio
+    phone
+    email
+    password
+    photo
+    reset_code
+    last_login
+  }
+}

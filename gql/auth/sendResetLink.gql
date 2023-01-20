@@ -1,0 +1,8 @@
+mutation sendRestLink ($user: RestInput!) {
+  sendRestLink (user: $user) {
+    msg
+    status
+    email
+    phone
+  }
+}

@@ -1,0 +1,14 @@
+mutation updateUser ($updateUserInput: UpdateUserInput!) {
+  updateUser (updateUserInput: $updateUserInput) {
+    _id
+    name
+    username
+    bio
+    phone
+    email
+    password
+    photo
+    reset_code
+    last_login
+  }
+}
